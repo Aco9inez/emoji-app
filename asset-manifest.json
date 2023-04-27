@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/emoji-app/static/js/main.cb4cb323.js",
+    "index.html": "/emoji-app/index.html",
+    "main.cb4cb323.js.map": "/emoji-app/static/js/main.cb4cb323.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb4cb323.js"
+  ]
+}

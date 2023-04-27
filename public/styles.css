@@ -4,6 +4,7 @@ body {
     line-height: 1.666;
     background: #3f0141;
     color: #000000;
+    align-items: center;
   }
   
   h1 {
